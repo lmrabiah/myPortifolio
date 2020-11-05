@@ -53,9 +53,18 @@ p {
 }
 
 .img {
+  margin-top: 30px;
+
+  border-radius: 30%;
+  width: 400px;
+  height: 250px;
+  margin-left: 630px;
+}
+
+.cards {
+  display: flex;
   align-items: center;
   justify-content: center;
   display: flex;
   flex-wrap: wrap;
-`;
 }
